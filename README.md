@@ -16,9 +16,6 @@ My work blends **analytical thinking** with **machine learning**, transforming c
 
 ### 📫 Connect with me:
 
-<a href="https://rahidur12.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" />
-</a>
 <a href="https://www.linkedin.com/in/rahidur-rahman" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -50,12 +47,12 @@ My work blends **analytical thinking** with **machine learning**, transforming c
 🛒 **Vendor Performance Dashboard**  
 → Built an interactive dashboard to evaluate vendor efficiency, procurement share, and product profitability.  
 → Used DAX and Power Query for custom KPIs and automated data workflows.  
-🔗 *[View Dashboard (Power BI)](#)*
+🔗 *[View Dashboard (Power BI)](https://github.com/rahidur12/Sales-Insights-Dashboard-and-Business-Analysis.git)*
 
 🏬 **Sales Insights Dashboard**  
 → Designed an interactive Power BI report tracking revenue, customer segments, and growth opportunities.  
 → Integrated SQL + Python for data cleaning and forecasting.  
-🔗 *[View Dashboard (Power BI)](#)*
+🔗 *[View Dashboard (Power BI)](https://github.com/rahidur12/Vendor-Performance-Analysis.git)*
 
 ---
 
